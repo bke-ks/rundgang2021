@@ -1,0 +1,1 @@
+Installation, Betrieb und Features der Webcam.
